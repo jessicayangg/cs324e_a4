@@ -1,17 +1,17 @@
-class star {
+class starF {
   PVector position;
   float freq;
   float size;
   color col;
   
-  star(float x, float y, float freq, float size, color col){
+  starF(float x, float y, float freq, float size, color col){
     position = new PVector (x, y);
     this.freq = freq;
     this.size = size;
     this.col = col;
   }
   
-  star(float x, float y, float size){
+  starF(float x, float y, float size){
     position = new PVector (x, y);
     this.freq = 10;
     this. size = size;
