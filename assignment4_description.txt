@@ -1,0 +1,20 @@
+Project Summary
+This project aimed to create a captivating 2D animation scene in Processing that portrays a stylized solar system. The scene includes background stars, rotating planets with moons and rings, a rotating sun and moon, as well as special appearances by shooting and flashing stars. Each object in the scene exhibits unique animations, making the sketch a lively depiction of a whimsical cosmic landscape.
+
+Class Descriptions
+Star.pde: This class handles the background stars, which add a cosmic atmosphere to the scene.
+Planet.pde: Krishna developed this class to create rotating planets with moons and rings, rendering a central piece of the animation.
+Moons.pde: Aayush worked on this class to display moons orbiting the planets, adding depth to the solar system.
+Moon.pde: This class, crafted by Aayush, provides a rotating moon animation, contributing to the solar system's dynamic nature.
+Sun.pde: Aayush also developed this class to animate a rotating sun, infusing life into the scene with a central light source.
+StarS.pde: Jessica designed this class to bring shooting stars into the scene, adding fleeting moments of excitement.
+StarF.pde: This class, also by Jessica, creates flashing stars, providing twinkling effects that enrich the cosmic ambiance.
+Ring.pde: Integrated within the Planet class by Krishna, this class displays rings around the planets, enhancing their visual appeal.
+Challenges Encountered
+One of the unexpected challenges was ensuring a hierarchical grouping within the classes to fulfill the assignment requirements of having at least two levels of hierarchical grouping. Achieving a realistic rotation effect for the planets and their moons required a nuanced understanding of Processing's rotation and translation functions. Additionally, getting the shooting stars and flashing stars to render and animate correctly amid the other ongoing animations posed a certain level of complexity.
+
+Contribution
+Aayush: Developed the Moon.pde and Sun.pde classes for the rotating moon and sun animations.
+Jessica: Crafted the StarS.pde and StarF.pde classes for the shooting star and flashing star animations.
+Krishna: Worked on the background stars in Star.pde and the rotating planets with moons in Planet.pde and Moons.pde.
+This project was a collaborative effort where each member was responsible for their individual parts, ensuring active participation and mastery of the assignment by all group members.
